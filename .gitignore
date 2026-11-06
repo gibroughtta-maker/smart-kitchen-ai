@@ -34,3 +34,8 @@ scripts/*-test.js
 
 # Git worktrees
 .worktrees
+
+# local scratch files
+*.rar
+notepad
+test_output.txt

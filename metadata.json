@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Copy of Smart Kitchen AI",
+  "name": "Smart Kitchen AI",
   "description": "Intelligent inventory management for receipts, Telegram kitchen operations, shopping, wastage, and AI-assisted recipes.",
   "requestFramePermissions": [
     "microphone"
